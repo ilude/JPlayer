@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>MP3 ORG Lib</fullname>
+  <class>
+    <path>[../lib/jl030.jar]</path>
+    <path>[../lib/vorbisspi0.8.jar]</path>
+    <path>[../lib/jogg-0.0.5.jar]</path>
+    <path>[../lib/jorbis-0.0.12.jar]</path>
+    <path>[../lib/mp3sp.1.4.jar]</path>
+    <path>[../lib/tritonus_share.jar]</path>
+  </class>
+  <lastmodsaved>1072215883796</lastmodsaved>
+</library>

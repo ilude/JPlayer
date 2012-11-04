@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="class.insight" name="exPackages" value="0"/>
+  <property category="class.insight" name="exPackagesNames" value="sunw"/>
+  <property category="class.insight" name="fieldPrefix" value=""/>
+  <property category="class.insight" name="fieldSuffix" value=""/>
+  <property category="class.insight" name="genMethodInCurrentPos" value="1"/>
+  <property category="class.insight" name="generateThrowAlways" value="0"/>
+  <property category="class.insight" name="groupImports" value="0"/>
+  <property category="class.insight" name="groupName0" value="JDK core"/>
+  <property category="class.insight" name="groupName1" value="Swing"/>
+  <property category="class.insight" name="groupName2" value="JBuilder"/>
+  <property category="class.insight" name="groupName3" value="javax"/>
+  <property category="class.insight" name="groupNames" value="java;&#10;javax;&#10;com;&#10;com.borland&#10;com.borland.primetime;&#10;com.borland.jbuilder"/>
+  <property category="class.insight" name="groupPackages0" value="java;"/>
+  <property category="class.insight" name="groupPackages1" value="javax.swing"/>
+  <property category="class.insight" name="groupPackages2" value="com.borland.jbuilder;com.borland.primetime"/>
+  <property category="class.insight" name="groupPackages3" value="javax"/>
+  <property category="class.insight" name="groupsCount" value="4"/>
+  <property category="class.insight" name="jdGenerate" value="0"/>
+  <property category="class.insight" name="jdGenerateAutoDescrForGetSet" value="0"/>
+  <property category="class.insight" name="jdGenerateCAuthor" value="0"/>
+  <property category="class.insight" name="jdGenerateCDeprecated" value="0"/>
+  <property category="class.insight" name="jdGenerateCSee" value="0"/>
+  <property category="class.insight" name="jdGenerateCSince" value="0"/>
+  <property category="class.insight" name="jdGenerateCVersion" value="0"/>
+  <property category="class.insight" name="jdGenerateMAuthor" value="0"/>
+  <property category="class.insight" name="jdGenerateMDeprecated" value="0"/>
+  <property category="class.insight" name="jdGenerateMSee" value="0"/>
+  <property category="class.insight" name="jdGenerateMSince" value="0"/>
+  <property category="class.insight" name="jdPolicy" value="2"/>
+  <property category="class.insight" name="paramPrefix" value=""/>
+  <property category="class.insight" name="paramSuffix" value=""/>
+  <property category="class.insight" name="refreshAfterBuild" value="0"/>
+  <property category="class.insight" name="refreshAfterMake" value="0"/>
+  <property category="class.insight" name="useFieldPrefix" value="0"/>
+  <property category="class.insight" name="useFieldSuffix" value="0"/>
+  <property category="class.insight" name="useParamPrefix" value="0"/>
+  <property category="class.insight" name="useParamSuffix" value="0"/>
+  <property category="editor.general" name="line_ending.style" value="3"/>
+  <property category="generalFormatting" name="continuationIndent" value="2"/>
+  <property category="generalFormatting" name="lineEndingStyle" value="3"/>
+  <property category="generalFormatting" name="tabSize" value="2"/>
+  <property category="generalFormatting" name="useTabChar" value="1"/>
+  <property category="idl" name="ProcessIDL" value="false"/>
+  <property category="javaFormatting" name="arrayInitDataOnNewLine" value="0"/>
+  <property category="javaFormatting" name="classBraceNextLine" value="1"/>
+  <property category="javaFormatting" name="extendsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="implementsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="methodBraceNextLine" value="1"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="jspc" name="checkEnabled" value="0"/>
+  <property category="optimize.0" name="OptimizableType" value="intuitive.ide.borland.jb8.ProfilerBootstrap"/>
+  <property category="optimize.0" name="oicc.FilterFile" value="C:\Documents and Settings\mglenn\My Documents\Projects\JPlayer\build\JPlayer.oif"/>
+  <property category="optimize.0" name="oipr.AutoStartCPU" value="1"/>
+  <property category="optimize.0" name="oipr.FilterFile" value="C:\Documents and Settings\mglenn\My Documents\Projects\JPlayer\build\JPlayer.oif"/>
+  <property category="optimize.1" name="OptimizableType" value="intuitive.ide.borland.jb8.ProfilerBootstrap"/>
+  <property category="optimize.1" name="oicc.FilterFile" value="C:\Documents and Settings\mglenn\My Documents\Projects\JPlayer\build\JPlayer.oif"/>
+  <property category="optimize.1" name="oipr.AutoStartCPU" value="1"/>
+  <property category="optimize.1" name="oipr.FilterFile" value="C:\Documents and Settings\mglenn\My Documents\Projects\JPlayer\build\JPlayer.oif"/>
+  <property category="runtime" name="ConfigurationCount" value="1"/>
+  <property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.0" name="ConfigurationName" value="JPlayer Server"/>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.class" value="jplayer.player.Controller"/>
+  <property category="runtime.0" name="application.vmparameters" value="-server"/>
+  <property category="runtime.0" name="appserver.ejbJarsSaved" value="1"/>
+  <property category="runtime.0" name="appserver.parameters" value="-jts -jns -jss -jdb"/>
+  <property category="runtime.0" name="appserver.servername" value="standard"/>
+  <property category="runtime.0" name="appserver.vmparameters" value="-Dvbroker.agent.port=14000 -Djava.library.path=/BorlandEnterpriseServer/lib;/BorlandEnterpriseServer/bin -Dborland.enterprise.licenseDir=/BorlandEnterpriseServer/var/servers/agcit36/adm -Dejb.module_preload=true"/>
+  <property category="runtime.0" name="jsprunner.launchuri" value="/"/>
+  <property category="runtime.0" name="test.harness" value="junit.textui.TestRunner"/>
+  <property category="runtime.1" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.1" name="ConfigurationName" value="JPlayer Client"/>
+  <property category="runtime.1" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.1" name="application.class" value="jplayer.player.Controller"/>
+  <property category="runtime.1" name="application.vmparameters" value="-server"/>
+  <property category="runtime.1" name="appserver.ejbJarsSaved" value="1"/>
+  <property category="runtime.1" name="appserver.parameters" value="-jts -jns -jss -jdb"/>
+  <property category="runtime.1" name="appserver.servername" value="standard"/>
+  <property category="runtime.1" name="appserver.vmparameters" value="-Dvbroker.agent.port=14000 -Djava.library.path=/BorlandEnterpriseServer/lib;/BorlandEnterpriseServer/bin -Dborland.enterprise.licenseDir=/BorlandEnterpriseServer/var/servers/agcit36/adm -Dejb.module_preload=true"/>
+  <property category="runtime.1" name="jsprunner.launchuri" value="/"/>
+  <property category="runtime.1" name="test.harness" value="junit.textui.TestRunner"/>
+  <property category="serverservices" name="disabled.services" value="connector;jdatastore"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="../bak"/>
+  <property category="sys" name="BeansInstantiate" value="false"/>
+  <property category="sys" name="BraceStyle" value="1"/>
+  <property category="sys" name="Company" value=""/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2002"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="../src"/>
+  <property category="sys" name="Description" value=""/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="../docs"/>
+  <property category="sys" name="EventMatch" value="false"/>
+  <property category="sys" name="EventStyle" value="1"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="0"/>
+  <property category="sys" name="JDK" value="java version 1.5.0-beta-b31"/>
+  <property category="sys" name="JvmVersion" value="1.4"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="MP3 ID Lib;MP3 ORG Lib;BeanShell Scripting Lib"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="../classes"/>
+  <property category="sys" name="SourcePath" value="../src"/>
+  <property category="sys" name="TestPath" value="../src"/>
+  <property category="sys" name="Title" value=""/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="../"/>
+  <property category="webserver" name="servletEngine" value="Tomcat 4.0"/>
+</project>

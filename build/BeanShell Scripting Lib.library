@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>BeanShell Scripting Lib</fullname>
+  <class>
+    <path>[../lib/bsh-bsf-2.0b1.jar]</path>
+    <path>[../lib/bsh-classgen-2.0b1.jar]</path>
+    <path>[../lib/bsh-classpath-2.0b1.jar]</path>
+    <path>[../lib/bsh-commands-2.0b1.jar]</path>
+    <path>[../lib/bsh-core-2.0b1.jar]</path>
+    <path>[../lib/bsh-reflect-2.0b1.jar]</path>
+    <path>[../lib/bsh-util-2.0b1.jar]</path>
+  </class>
+  <lastmodsaved>1072883192593</lastmodsaved>
+</library>
